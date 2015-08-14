@@ -28,7 +28,9 @@ body {
 
 }
 
-
+.banne{
+  background-color: #445591 !important;
+}
 
 .tab-pane {
   margin-top: 15px;
