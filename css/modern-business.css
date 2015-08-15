@@ -14,7 +14,10 @@ html, body {
 
 body {
   padding-top: 50px;
-  background-color: #e0e1e4;
+  background-color: #f2f3f7;
+  font-family: 'Ubuntu Mono', ;
+  font-size: 16px;
+  color: #151515;
  /* body padding for fixed top nav */
 }
 
@@ -29,9 +32,47 @@ body {
 
 }
 
+.thikk h3{
+  font-family: 'Teko', sans-serif;
+  font-weight: 700;
+}
+
+.nave li a{
+  font-family: 'Teko', sans-serif;
+  font-weight: 400;
+  font-size: 1.58em;
+  color: #e1e1e1 !important;
+}
+
+.callme{
+  font-family: 'Teko', sans-serif;
+  font-weight: 400;
+  font-size: 3em !important;
+  color: #e1e1e1 !important;
+}
+
 .banne{
   background-color: #445591 !important;
 }
+
+.bannerr h2{
+  font-family: 'Teko', sans-serif;
+  color: #f4f5fa;
+  font-size: 41px !important;
+}
+
+
+.banerx h2{
+  font-family: 'Teko', sans-serif;
+  color: #293E6B;
+  font-size: 41px !important;
+}
+
+
+.copy{
+  color: #445591;
+}
+
 
 .tab-pane {
   margin-top: 15px;
