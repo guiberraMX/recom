@@ -154,7 +154,7 @@
 
       <footer>
         <div class="row">
-          <div class="col-lg-12">
+          <div class="copy col-lg-12">
             <p>Algunos derechos reservados © Recom Construcciones 2015 - 2016.</p>
           </div>
         </div>
