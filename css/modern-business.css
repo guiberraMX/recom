@@ -15,7 +15,7 @@ html, body {
 body {
   padding-top: 50px;
   background-color: #f2f3f7;
-  font-family: 'Ubuntu Mono', ;
+  font-family: 'Ubuntu Mono';
   font-size: 16px;
   color: #151515;
  /* body padding for fixed top nav */
@@ -35,6 +35,7 @@ body {
 .thikk h3{
   font-family: 'Teko', sans-serif;
   font-weight: 700;
+  color: #5b6677;
 }
 
 .nave li a{
