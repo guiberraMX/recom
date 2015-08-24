@@ -32,6 +32,12 @@ body {
 
 }
 
+.tabbss{
+  font-size: 1.3em;
+  margin-right: 30%;
+  text-align: justify;
+}
+
 .thikk h3{
   font-family: 'Teko', sans-serif;
   font-weight: 700;
