@@ -32,6 +32,11 @@ body {
 
 }
 
+
+.panel-body{
+  color: #445591;
+}
+
 .tabbss{
   font-size: 1.3em;
   margin-right: 30%;
