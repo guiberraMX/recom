@@ -71,11 +71,8 @@
       <div class="row">
       
         <div class="col-lg-12">
-          <h1 class="page-header">Contact <small>We'd Love to Hear From You!</small></h1>
-          <ol class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
-            <li class="active">Contact</li>
-          </ol>
+          <h1 class="page-header">Escríbenos <small>¡Con gusto te atenderémos!</small></h1>
+         
         </div>
         
         <div class="col-lg-12">
