@@ -68,9 +68,10 @@ body {
 }
 
 .bannerr h2{
-  font-family: 'Teko', sans-serif;
+  font-family: 'Teko', 700;
   color: #f4f5fa;
   font-size: 41px !important;
+
 }
 
 
