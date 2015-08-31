@@ -81,7 +81,11 @@
         
         <div class="col-lg-12">
           <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-          <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+        
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1885.627855173784!2d-98.23845319999997!3d19.0524916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc7279d602cdf%3A0x6cb84dae7d088d9!2sAv+25+Pte+5301%2C+Reforma%2C+Her%C3%B3ica+Puebla+de+Zaragoza%2C+Pue.!5e0!3m2!1ses!2smx!4v1441061808120" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
         </div>
 
       </div><!-- /.row -->
@@ -103,46 +107,44 @@
             <form role="form" method="POST" action="contact-form-submission.php">
 	            <div class="row">
 	              <div class="form-group col-lg-4">
-	                <label for="input1">Name</label>
+	                <label for="input1">Nombre</label>
 	                <input type="text" name="contact_name" class="form-control" id="input1">
 	              </div>
 	              <div class="form-group col-lg-4">
-	                <label for="input2">Email Address</label>
+	                <label for="input2">Email</label>
 	                <input type="email" name="contact_email" class="form-control" id="input2">
 	              </div>
 	              <div class="form-group col-lg-4">
-	                <label for="input3">Phone Number</label>
+	                <label for="input3">Teléfono</label>
 	                <input type="phone" name="contact_phone" class="form-control" id="input3">
 	              </div>
 	              <div class="clearfix"></div>
 	              <div class="form-group col-lg-12">
-	                <label for="input4">Message</label>
+	                <label for="input4">Escribe tus comentarios</label>
 	                <textarea name="contact_message" class="form-control" rows="6" id="input4"></textarea>
 	              </div>
 	              <div class="form-group col-lg-12">
 	                <input type="hidden" name="save" value="contact">
-	                <button type="submit" class="btn btn-primary">Submit</button>
+	                <button type="submit" class="btn btn-primary">Enviar</button>
 	              </div>
               </div>
             </form>
         </div>
 
         <div class="col-sm-4">
-          <h3>Modern Business</h3>
-          <h4>A Start Bootstrap Template</h4>
+          <h3>Visítanos</h3>
+          <h4>25 pte 5301</h4>
           <p>
-            5555 44th Street N.<br>
-            Bootstrapville, CA 32323<br>
+             Col. Santa Cruz Buena Vista.
           </p>
-          <p><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: (555) 984-3600</p>
-          <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a></p>
-          <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: Monday - Friday: 9:00 AM to 5:00 PM</p>
+          <p><i class="fa fa-phone"></i> <abbr title="Phone">T</abbr>: (222) 605 1937</p>
+          <p><i class="fa fa-envelope-o"></i> <abbr title="Email">@</abbr>: <a href="mailto:contacto.recom@gmail.com">contacto.recom@gmail.com</a></p>
+          <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: 8:00 AM to 5:00 PM</p>
+
           <ul class="list-unstyled list-inline list-social-icons">
-            <li class="tooltip-social facebook-link"><a href="#facebook-page" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
-            <li class="tooltip-social linkedin-link"><a href="#linkedin-company-page" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
-            <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
-            <li class="tooltip-social google-plus-link"><a href="#google-plus-page" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
+            <li class="tooltip-social facebook-link"><a href="https://es-la.facebook.com/people/Recom-Construcciones-SA-DE-CV/100006261977983" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
           </ul>
+
         </div>
 
       </div><!-- /.row -->
