@@ -33,7 +33,7 @@
         <div class=" container">
             <div class=" navbar-header">
 
-                <a class="navbar-brand" href="index.html"><img src="img/recom1.png" width="19%"></a>
+                <a class="navbar-brand" href="index.html"><img src="img/logotipo.png" width="19%"></a>
 
 
 
