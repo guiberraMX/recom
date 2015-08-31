@@ -93,9 +93,10 @@
       <div class="row">
 
         <div class="col-sm-8">
-          <h3>Let's Get In Touch!</h3>
-          <p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-			<?php  
+          <h3>Te responderemos a la brevedad</h3>
+          <p>Si aún tienes dudas de alguno de nuestros productos con gusto un asesor especializado te atenderá, escríbe aquí todos tus comentarios. Te ivitamos a leer nuestra sección dedicada a <a href="preguntas.html" target="blank">preguntas y respuestas frecuentes</a></p>
+			
+      <?php  
 
                 // check for a successful form post  
                 if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";  
