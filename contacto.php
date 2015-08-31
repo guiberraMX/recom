@@ -95,7 +95,8 @@
         <div class="col-sm-8">
           <h3>Te responderemos a la brevedad</h3>
           <p>Si aún tienes dudas de alguno de nuestros productos con gusto un asesor especializado te atenderá, escríbe aquí todos tus comentarios. Te ivitamos a leer nuestra sección dedicada a <a href="preguntas.html" target="blank">preguntas y respuestas frecuentes</a></p>
-			
+			    <br>
+          
       <?php  
 
                 // check for a successful form post  
