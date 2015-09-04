@@ -33,6 +33,11 @@ body {
 }
 
 
+.iccc{
+  color: #C23438;
+}
+
+
 .panel-body{
   color: #445591;
 }
@@ -64,7 +69,18 @@ body {
 }
 
 .banne{
-  background-color: #445591 !important;
+  background-color: #4376AF !important;
+}
+
+.att{
+  background-color: #D7D8DC;
+
+}
+
+.att2{
+
+  background-color: #C42634;
+  border-color: #C42634; 
 }
 
 .bannerr h2{
